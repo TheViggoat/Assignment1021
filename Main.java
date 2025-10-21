@@ -7,7 +7,7 @@ public class Main {
         System.out.print("What is your name, twizzlicious? ");
         String name = scanner.nextLine();
         
-        System.out.println("Your name is " + name);
+        System.out.println("Your name is possibly " + name);
         
         scanner.close();
     }
