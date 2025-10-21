@@ -8,7 +8,7 @@ Tasks:
 4. Change the code in your cloned repository so that it modifies the output in some way (for example, change a message or spelling).
 5. Save and commit your changes to your local Git repository.
 6. Push your changes to GitHub, then verify that your changes appear in your own repository, not in the ballard-high-ap-cs organization.
-  *In your README, explain how you verified this*
+  *In your README, explain how you verified this* - I verified by checking that my origin was set to my personal account before pushing it to the origin and then check my repository on Github and it was there.
 7. Pair up with a classmate. Exchange your repository URLs with each other.
 8. Change your repository’s origin to point to your classmate’s repository. Make a small change and attempt to push your changes to their repository.
 9. In your repository’s README file, describe what happened when you tried to push your changes to their repository.  
